@@ -1,3 +1,3 @@
-# Malco - My Role in Software Development
+Vince Aiex Alcala
 
-As a software developer, my role is to create or develop software based on the users' or the organization's needs. I will also contribute ideas and provide software solutions, such as fixing errors and bugs, maintaining existing systems, and adding new features when needed. I will also fulfill my role in a collaboration and will do what's assigned to me with my very best.
+I am an IT student. I like programming and technology. I want to learn how software development works. My goal is to become a stronger IT professional. I am working to improve my skills.
